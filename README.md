@@ -1,1 +1,1 @@
-My early project to learn programming. 
+My early project about Formula 1 to learn programming. 
